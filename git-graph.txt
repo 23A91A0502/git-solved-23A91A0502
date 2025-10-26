@@ -1,0 +1,20 @@
+* 6a212fc (HEAD -> main, origin/main) docs: Add changelog
+* d46f1e5 created documentation
+* ddda614 (tag: v1.1.0, tag: v1.0.0, origin/feature/another-feature, feature/another-feature) docs: Update README
+* a9882e5 modified again cheery-picking
+* 05137b5 docs: Add FAQ section
+| * 4426fe4 (feature/new-feature) feat: Complete new feature
+|/  
+* 6ff9903 Add checkpoint3 screenshot:merge main and conflict-simulator
+*   953191f merge: Resolve all conflicts between main and conflict-simulator branches
+|\  
+| * d3dd9b2 (upstream/conflict-simulator, origin/conflict-simulator, instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 52a3c99 Add checkpoint2 screenshot for task submission
+* |   d91381d merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (upstream/dev, origin/dev, instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (upstream/main, upstream/HEAD, instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
